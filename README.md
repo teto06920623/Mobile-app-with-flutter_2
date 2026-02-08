@@ -13,14 +13,7 @@ Try the app directly in your browser:
   <tr>
     <td width="300">
       <img src="https://github.com/user-attachments/assets/8aa99ba3-1b1b-48b0-9d07-9cac56dcdcdb" width="100%" alt="Calculator Screen 1" />
-    </td>
-    
-    <td width="50">&nbsp;</td>
 
-    <td width="300">
-      <img src="https://github.com/user-attachments/assets/4b625daa-cb42-47cd-aa21-5d7b42ca3f02" width="100%" alt="Calculator Screen 2" />
-    </td>
-  </tr>
 </table>
 
 ## ✨ Features
