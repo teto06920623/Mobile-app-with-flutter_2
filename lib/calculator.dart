@@ -180,7 +180,7 @@ class _CalculatorState extends State<Calculator> {
               onPressed: () {
                 setState(() {
                   if (num2 != 0) {
-                    result = num1 ~/ num2;
+                    result = num1 / num2;
                   } else {
                     result = 'Cannot divide by zero';
                   }
