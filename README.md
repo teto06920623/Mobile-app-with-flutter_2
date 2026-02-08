@@ -19,7 +19,7 @@ Try the app directly in your browser:
 - **Deployment:** GitHub Pages
 
 ## 📸 Screenshots
-*<img width="449" height="906" alt="image" src="https://github.com/user-attachments/assets/8aa99ba3-1b1b-48b0-9d07-9cac56dcdcdb" />
+*<img width="449" height="306" alt="image" src="https://github.com/user-attachments/assets/8aa99ba3-1b1b-48b0-9d07-9cac56dcdcdb" />
 *
 
 ---
