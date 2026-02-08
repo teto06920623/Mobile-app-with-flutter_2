@@ -20,6 +20,8 @@ Try the app directly in your browser:
 
 ## 📸 Screenshots
 *<img width="300"  alt="image" src="https://github.com/user-attachments/assets/8aa99ba3-1b1b-48b0-9d07-9cac56dcdcdb" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/4b625daa-cb42-47cd-aa21-5d7b42ca3f02" />
+
 *
 
 ---
