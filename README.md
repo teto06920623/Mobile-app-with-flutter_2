@@ -7,6 +7,22 @@ This project demonstrates the power of Flutter in creating responsive UIs for bo
 Try the app directly in your browser:
 [👉 Click Here to Run the App](https://teto06920623.github.io/Mobile-app-with-flutter_2/)
 
+## 📸 Screenshots
+
+<table border="0">
+  <tr>
+    <td width="300">
+      <img src="https://github.com/user-attachments/assets/8aa99ba3-1b1b-48b0-9d07-9cac56dcdcdb" width="100%" alt="Calculator Screen 1" />
+    </td>
+    
+    <td width="50">&nbsp;</td>
+
+    <td width="300">
+      <img src="https://github.com/user-attachments/assets/4b625daa-cb42-47cd-aa21-5d7b42ca3f02" width="100%" alt="Calculator Screen 2" />
+    </td>
+  </tr>
+</table>
+
 ## ✨ Features
 - **Core Operations:** Supports addition, subtraction, multiplication, and division.
 - **Error Handling:** Includes logic to prevent errors like "Division by Zero" with user-friendly alerts.
@@ -18,22 +34,9 @@ Try the app directly in your browser:
 - **Language:** Dart
 - **Deployment:** GitHub Pages
 
-## 📸 Screenshots
+## ⚙️ Installation & Run
+If you want to run this project locally:
 
-
-<table border="0">
-  <tr>
-    <td width="300">
-      <img src="https://github.com/user-attachments/assets/8aa99ba3-1b1b-48b0-9d07-9cac56dcdcdb" width="100%" />
-    </td>
-    
-    <td width="50">&nbsp;</td>
-
-    <td width="300">
-      <img src="https://github.com/user-attachments/assets/4b625daa-cb42-47cd-aa21-5d7b42ca3f02" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-*Developed by Taha Alrefaey | CS Student at Horus University*
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/teto0](https://github.com/teto0)
