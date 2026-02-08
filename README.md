@@ -19,7 +19,8 @@ Try the app directly in your browser:
 - **Deployment:** GitHub Pages
 
 ## 📸 Screenshots
-*(You can add a screenshot here later if you want)*
+*<img width="449" height="906" alt="image" src="https://github.com/user-attachments/assets/8aa99ba3-1b1b-48b0-9d07-9cac56dcdcdb" />
+*
 
 ---
 *Developed by Taha Alrefaey | CS Student at Horus University*
