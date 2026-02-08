@@ -1,16 +1,25 @@
-# culcullater
+# 🧮 Smart Calculator App
 
-A new Flutter project.
+A sleek, cross-platform calculator application built with **Flutter** & **Dart**.
+This project demonstrates the power of Flutter in creating responsive UIs for both Mobile and Web from a single codebase.
 
-## Getting Started
+## 🚀 Live Demo
+Try the app directly in your browser:
+[👉 Click Here to Run the App](https://teto06920623.github.io/Mobile-app-with-flutter_2/)
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- **Core Operations:** Supports addition, subtraction, multiplication, and division.
+- **Error Handling:** Includes logic to prevent errors like "Division by Zero" with user-friendly alerts.
+- **Responsive Design:** Optimized for both mobile screens and web browsers.
+- **Clean UI:** Built using Flutter's Material Design components.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
+- **Framework:** Flutter (3.x)
+- **Language:** Dart
+- **Deployment:** GitHub Pages
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+*(You can add a screenshot here later if you want)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Developed by Taha Alrefaey | CS Student at Horus University*
